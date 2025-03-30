@@ -1,9 +1,14 @@
-function MealDetails() {
+function MealDetailsPage() {
     return ( 
-        <h1>
-            Meal Details
-        </h1>
+        <>
+            <header>
+
+            </header>
+            <main>
+                
+            </main>
+        </>
      );
 }
 
-export default MealDetails;
+export default MealDetailsPage;
